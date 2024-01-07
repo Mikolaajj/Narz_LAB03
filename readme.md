@@ -1,1 +1,1 @@
-Edytuje plik za pomocą githuba
+Edytuje plik za pomocą githuba dla fetch
